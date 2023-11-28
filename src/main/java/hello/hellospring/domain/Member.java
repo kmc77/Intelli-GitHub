@@ -1,6 +1,6 @@
 package hello.hellospring.domain;
 
-public class Mamber {
+public class Member {
 
     private Long id;
     private String name;
@@ -11,5 +11,12 @@ public class Mamber {
 
     public void setId(Long id) {
         this.id = id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String spring) {
     }
 }
