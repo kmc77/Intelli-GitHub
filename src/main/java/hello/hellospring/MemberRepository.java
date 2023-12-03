@@ -1,4 +1,4 @@
-package hello.hellospring.repository;
+package hello.hellospring;
 
 import hello.hellospring.domain.Member;
 
