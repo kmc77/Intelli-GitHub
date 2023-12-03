@@ -1,4 +1,4 @@
-package hello.hellospring;
+package hello.hellospring.repository;
 
 import hello.hellospring.domain.Member;
 import org.springframework.jdbc.core.JdbcTemplate;
